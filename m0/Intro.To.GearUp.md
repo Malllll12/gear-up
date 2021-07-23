@@ -20,9 +20,11 @@ Step 2: If you are unfamiliar with the term "Implicit Bias," take time to read t
 Create a gist on Github and reflect (4-6 sentences) on the following questions:
 
 * What were your reflections from the video?
+ + Without outside voices I my implicit bias will assume the user I build for is like me. When that is overwhelmingly not the case. For the sake of expediency I'll    put people in boxes based on my own experiences. So this is something I need to actively think about whenever I'm building something.
 * In what ways have you examined your implicit biases before coming to Turing?
+  + I try to make sure the voices I engage with on social media are either from a background different from mine or are also thinking about their own biases.
 * What kind of software do you imagine building in the future? How will understanding biases (or avoiding understanding biases) impact your products?
-
+  + I'd like to work on building things that are great equalizers. Somthing that makes the world more fair and equitable. By understanding my biases I can understand my own blind spots and shortcomings.
 
 #### READ
 
