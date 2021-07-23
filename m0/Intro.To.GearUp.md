@@ -37,6 +37,10 @@ On your same gist, reflect on the following quesitons:
 <b>“All of us live complex lives that require a great deal of juggling for survival,” Carty and Mohanty said in an email. “What that means is that we are actually living at the intersections of overlapping systems of privilege and oppression.”</b>
 
  * When you consider the way you move through the world, what elements of your identity are you most aware of on a daily basis?
+ + I'm always aware of being a woman in spaces. How is some spaces as a woman I'm more at risk but as a white woman I'm a threat. Also being a feminist and a       leftist.
  * What strengths does your identity give you?  How will you utilize those at Turing?
+ + My identity comes with a lot of privilege, but also makes me hyper aware of microaggressions. I hope to utilize those traits by advocating for others with empathy.
  * How do you think you could value the identies of those around you to bring out their strengths at Turing? Has there been a time where you were able to advocate or include people around you?
+ +I believe in listening before speaking. I plan to be open enough to hearing others thoughts and where there coming from and not being combative when it's different from my experience.
  * How will your strengths impact you as a teammate?  What will you bring to your cohort? 
++ I won't be the first or loudest voice in the room but I will be processing everything around me. I hope to bring empathy and advocacy
